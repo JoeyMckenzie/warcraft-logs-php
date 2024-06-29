@@ -1,0 +1,10 @@
+includes:
+    - phpstan-baseline.neon
+
+parameters:
+    level: max
+    paths:
+        - src
+
+    # Optionally include the baseline file
+    # baseline: phpstan-baseline.neon
